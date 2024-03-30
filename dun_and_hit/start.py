@@ -263,7 +263,7 @@ def magazin(player, enemy):
 
 
             else:
-                print("\nБОБЫ")
+                print("\nНет...")
 
         elif choice == "2":
             print("1. Начальный кейс.")
